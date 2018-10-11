@@ -701,6 +701,7 @@ dom.importCssString(".normal-mode .ace_cursor{\
       dialog.className = "ace_dialog ace_dialog-bottom";
     else
       dialog.className = "ace_dialog ace_dialog-top";
+    dialog.setAttribute("spellcheck", "false");
 
     dialog.setAttribute("spellcheck", "false");
 

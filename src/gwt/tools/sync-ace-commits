@@ -108,6 +108,7 @@ git merge \
     origin/patch/accent-input \
     origin/patch/tokenizer-onmatch-line \
     origin/patch/ipad-arrow-keys \
+    origin/patch/r-search-highlight \
     -m "merge once more"
 
 ## git merge \
